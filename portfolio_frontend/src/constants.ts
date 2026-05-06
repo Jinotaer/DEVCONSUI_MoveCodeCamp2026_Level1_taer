@@ -22,12 +22,12 @@
 
 // ✅ Your NEW Testnet Package ID
 export const TESTNET_PACKAGE_ID = "0xb2eeb0e6b02570c6e4c386751800b4d1d8f6a851728e171fcb5bc7ff8d534e94";
-
 // ✅ Your NEW Testnet Portfolio Object ID
 export const TESTNET_PORTFOLIO_ID = "0xbcb2664d8e9e8ea201b729216003e279dd5088952deada530947b591cac6807f";
 
+// ✅ Your NEW Mainnet Package ID and 
 export const MAINNET_PACKAGE_ID = "0x5b2f28a4b4d80b3ef0486e4be1f04d274ca266eecd6bd7e4100dfc20975283f";
-export const MAINNET_PORTFOLIO_ID = "0xbcb2664d8e9e8ea201b729216003e279dd5088952deada530947b591cac6807f";
+export const MAINNET_PORTFOLIO_ID = "0x7b25893c77f45104a497c574811295198714ff9ab9c85fe2cb4f11cd309108a6";
 
 export const LOCAL_PACKAGE_ID = "0x0";
 export const LOCAL_PORTFOLIO_ID = "0x0";
